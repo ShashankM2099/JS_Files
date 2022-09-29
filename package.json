@@ -1,0 +1,11 @@
+{
+  "name": "js_tryouts",
+  "version": "1.0.0",
+  "description": "Integrate",
+  "main": "courses.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "author": "Shashank",
+  "license": "ISC"
+}
